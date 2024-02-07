@@ -563,3 +563,13 @@ h1 {
     from { opacity: 0; }
       to { opacity: 1; }
 }
+
+.git-link{
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.git-link:hover{
+  color: white;
+}
